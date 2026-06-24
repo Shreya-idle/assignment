@@ -244,7 +244,7 @@ For a real production deployment beyond the assignment, this architecture maps c
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/Shreya-idle/assignment.git
 cd YOUR_REPO
 
 # 2. (Optional) Enable live Gemini LLM calls
@@ -426,8 +426,8 @@ View pipeline status in the **Actions** tab of the repository.
 
 | Deliverable | Link |
 |-------------|------|
-| GitHub repository | `https://github.com/YOUR_USERNAME/YOUR_REPO` |
-| Architecture diagram (draw.io) | _Add your public link here_ |
+| GitHub repository | `https://github.com/Shreya-idle/assignment.git` |
+
 | 3-minute technical video | _Add your Loom/YouTube link here_ |
 
 ---
