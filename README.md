@@ -245,7 +245,8 @@ For a real production deployment beyond the assignment, this architecture maps c
 ```bash
 # 1. Clone the repository
 git clone https://github.com/Shreya-idle/assignment.git
-cd YOUR_REPO
+<img width="1480" height="1236" alt="diagram-export-6-24-2026-11_45_50-PM" src="https://github.com/user-attachments/assets/e0e6dd28-2656-423b-9819-5fd085264d32" />
+
 
 # 2. (Optional) Enable live Gemini LLM calls
 cp .env.example .env
